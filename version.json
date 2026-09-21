@@ -1,7 +1,7 @@
 {
-  "min": "0.9.1",
-  "latest": "0.9.1",
-  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.9.1.zip",
+  "min": "0.9.2",
+  "latest": "0.9.2",
+  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.9.2.zip",
   "qq": "1105868183",
-  "note": "修复相机模式切换时的位置跳变、装饰物 tag 排序、仅限编辑器偏移；新增自动更新"
+  "note": "修复同一格上多个效果的先后顺序、拖动时间轴时参数栏输入框被裁掉、轨道上色；缓速下拉新增曲线；界面重做"
 }
