@@ -1,7 +1,7 @@
 {
-  "min": "0.10.5",
-  "latest": "0.10.5",
-  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.10.5.zip",
+  "min": "0.10.6",
+  "latest": "0.10.6",
+  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.10.6.zip",
   "qq": "1105868183",
-  "note": "重启等待加到 6 秒：优雅退出的清理比强杀慢，1.5 秒不够"
+  "note": "重启助手换成批处理（cmd.exe），避开 PowerShell 派生链"
 }
