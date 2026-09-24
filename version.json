@@ -1,7 +1,7 @@
 {
-  "min": "0.10.6",
-  "latest": "0.10.6",
-  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.10.6.zip",
+  "min": "0.10.8",
+  "latest": "0.10.8",
+  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.10.8.zip",
   "qq": "1105868183",
-  "note": "重启助手换成批处理（cmd.exe），避开 PowerShell 派生链"
+  "note": "验证「装好后提示重开」流程"
 }
