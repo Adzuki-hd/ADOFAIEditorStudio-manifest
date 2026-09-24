@@ -1,7 +1,7 @@
 {
-  "min": "0.9.7",
-  "latest": "0.9.7",
-  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.9.7.zip",
+  "min": "0.9.8",
+  "latest": "0.9.8",
+  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.9.8.zip",
   "qq": "1105868183",
-  "note": "修复自动更新「一次启动只能升一级」，改为每次启动都检查"
+  "note": "修复自动更新重启后 UMM 全线失效：重启改经 detached cmd 调用 steam://launch/977950"
 }
