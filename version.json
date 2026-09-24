@@ -1,7 +1,7 @@
 {
-  "min": "0.10.2",
-  "latest": "0.10.2",
-  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.10.2.zip",
+  "min": "0.10.3",
+  "latest": "0.10.3",
+  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.10.3.zip",
   "qq": "1105868183",
-  "note": "自动更新重启改为最直接的 Process.Start(exe)，不再经 cmd"
+  "note": "自动更新重启改为等本进程真正退出后再起新实例（Wait-Process），修复重启后 UMM 不加载"
 }
