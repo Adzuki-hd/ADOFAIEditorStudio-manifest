@@ -1,7 +1,7 @@
 {
-  "min": "0.10.0",
-  "latest": "0.10.0",
-  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.10.0.zip",
+  "min": "0.10.1",
+  "latest": "0.10.1",
+  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.10.1.zip",
   "qq": "1105868183",
-  "note": "修复自动更新重启后 UMM 全线失效：不再用 steam://launch（起的实例会卡死），改回直接起 exe，并在 Steam 未运行时先唤醒它"
+  "note": "修复自动更新重启：延迟原用 timeout（stdin 被重定向时会立即退出、等于没等），改用 ping"
 }
