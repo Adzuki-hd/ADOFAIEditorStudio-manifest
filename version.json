@@ -1,7 +1,7 @@
 {
-  "min": "0.9.5",
-  "latest": "0.9.5",
-  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.9.5.zip",
+  "min": "0.9.6",
+  "latest": "0.9.6",
+  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.9.6.zip",
   "qq": "1105868183",
   "note": "验证自动更新流程（无功能改动）"
 }
