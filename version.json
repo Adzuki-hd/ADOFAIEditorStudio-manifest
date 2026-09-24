@@ -1,7 +1,7 @@
 {
-  "min": "0.9.8",
-  "latest": "0.9.8",
-  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.9.8.zip",
+  "min": "0.9.9",
+  "latest": "0.9.9",
+  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.9.9.zip",
   "qq": "1105868183",
-  "note": "修复自动更新重启后 UMM 全线失效：重启改经 detached cmd 调用 steam://launch/977950"
+  "note": "修复自动更新下载：显式 TLS 1.2+，并加 raw.githubusercontent.com 备用镜像"
 }
