@@ -1,7 +1,7 @@
 {
-  "min": "0.10.4",
-  "latest": "0.10.4",
-  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.10.4.zip",
+  "min": "0.10.5",
+  "latest": "0.10.5",
+  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.10.5.zip",
   "qq": "1105868183",
-  "note": "修复自动更新重启后 UMM 不加载：启动重启助手改用 UseShellExecute=true"
+  "note": "重启等待加到 6 秒：优雅退出的清理比强杀慢，1.5 秒不够"
 }
