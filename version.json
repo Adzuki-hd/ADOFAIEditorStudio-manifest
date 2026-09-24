@@ -1,7 +1,7 @@
 {
-  "min": "0.9.6",
-  "latest": "0.9.6",
-  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.9.6.zip",
+  "min": "0.9.7",
+  "latest": "0.9.7",
+  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.9.7.zip",
   "qq": "1105868183",
-  "note": "验证自动更新流程（无功能改动）"
+  "note": "修复自动更新「一次启动只能升一级」，改为每次启动都检查"
 }
