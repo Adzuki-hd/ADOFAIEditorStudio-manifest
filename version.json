@@ -1,7 +1,7 @@
 {
-  "min": "0.9.4",
-  "latest": "0.9.4",
-  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.9.4.zip",
+  "min": "0.9.5",
+  "latest": "0.9.5",
+  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.9.5.zip",
   "qq": "1105868183",
-  "note": "修复自动更新：装完新版后游戏卡死约十秒且不会真正重启（表现为磁盘已是新版、内存还是旧版，UMM 配置菜单打不开）。重启改为延迟直接拉起游戏 exe"
+  "note": "验证自动更新流程（无功能改动）"
 }
