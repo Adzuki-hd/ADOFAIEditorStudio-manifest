@@ -1,7 +1,7 @@
 {
-  "min": "0.9.2",
-  "latest": "0.9.2",
-  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.9.2.zip",
+  "min": "0.9.3",
+  "latest": "0.9.3",
+  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.9.3.zip",
   "qq": "1105868183",
-  "note": "修复同一格上多个效果的先后顺序、拖动时间轴时参数栏输入框被裁掉、轨道上色；缓速下拉新增曲线；界面重做"
+  "note": "修复相机位置跳变与偏移丢失、粒子发射器开关、黏性轨道、编辑器引导线残留、空格误触发按钮、时间线被截断、参数栏裁剪；时间轴事件块支持拖动与拉长"
 }
