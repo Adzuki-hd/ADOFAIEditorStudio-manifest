@@ -1,7 +1,7 @@
 {
-  "min": "0.11.0",
-  "latest": "0.11.0",
-  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.11.0.zip",
+  "min": "0.13.0",
+  "latest": "0.13.0",
+  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.13.0.zip",
   "qq": "1105868183",
-  "note": "修复轨道事件：MoveTrack 的旋转/缩放/位移不生效、轨道动画段没有时间窗、辉度看不见、轨道出现/消失动画的作用范围"
+  "note": "新增联机做谱（第一期）：开房/加入、谱面整体同步、成员列表。不搭服务器，一人当主机、其他人直连，配合内网穿透使用"
 }
