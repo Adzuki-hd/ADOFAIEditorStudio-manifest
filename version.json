@@ -1,7 +1,7 @@
 {
-  "min": "0.15.1",
-  "latest": "0.15.1",
-  "url": "https://cdn.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.15.1.zip",
+  "min": "0.15.2",
+  "latest": "0.15.2",
+  "url": "https://cdn.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.15.2.zip",
   "qq": "1105868183",
-  "note": "修复更新检查：GitHub API 限流后会退到 CDN，而 CDN 可能缓存几个月前的旧清单，导致「版本正常」而永远不更新。现在会问遍所有源、取版本最高的那份。"
+  "note": "修复老是掉线：连接断了不再把你踢出房间（之前一断就散房），并且去掉了那个会误判的自动判死——它让闲置的人 20 秒后被当成掉线。主动点断开才会真正离开并清理。"
 }
