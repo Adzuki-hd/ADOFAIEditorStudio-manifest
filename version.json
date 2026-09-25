@@ -1,7 +1,7 @@
 {
-  "min": "0.13.2",
-  "latest": "0.13.2",
-  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.13.2.zip",
+  "min": "0.14.0",
+  "latest": "0.14.0",
+  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.14.0.zip",
   "qq": "1105868183",
-  "note": "联机安全修复：覆盖谱面前强制自动备份；改为比对歌曲与格数（不再只看文件名，level.adofai/main.adofai 撞名会误判）；内容不像同一张谱时改为弹确认不直接覆盖"
+  "note": "新增事件锁：选中事件即占用，别人那边同一事件变红且改不动，避免两人同时改同一格互相覆盖。改值仍是手动推送/拉取"
 }
