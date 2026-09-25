@@ -1,7 +1,7 @@
 {
-  "min": "0.15.2",
-  "latest": "0.15.2",
-  "url": "https://cdn.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.15.2.zip",
+  "min": "0.15.3",
+  "latest": "0.15.3",
+  "url": "https://cdn.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.15.3.zip",
   "qq": "1105868183",
-  "note": "修复老是掉线：连接断了不再把你踢出房间（之前一断就散房），并且去掉了那个会误判的自动判死——它让闲置的人 20 秒后被当成掉线。主动点断开才会真正离开并清理。"
+  "note": "修复同步漏掉的两种情况：拖装饰物会新建关键帧、把事件数改掉，之前的校验误判成「两边结构不同」从此拒绝所有同步；拖动事件块到别的格也因同类误判被拒。现在改用「事件类型 + 格数」判断下标是否还指着同一个事件。另外两个人都不能同时拖同一个装饰物了。"
 }
