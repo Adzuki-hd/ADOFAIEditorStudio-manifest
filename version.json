@@ -1,7 +1,7 @@
 {
-  "min": "0.10.8",
-  "latest": "0.10.8",
-  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.10.8.zip",
+  "min": "0.10.9",
+  "latest": "0.10.9",
+  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.10.9.zip",
   "qq": "1105868183",
-  "note": "验证「装好后提示重开」流程"
+  "note": "新增装饰物列表（时间轴左侧）：选中、隐藏/锁定、删除、搜索、新建；媒体区改为六列网格；左栏与时间轴自适应、预览居中"
 }
