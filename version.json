@@ -1,7 +1,7 @@
 {
-  "min": "0.13.0",
-  "latest": "0.13.0",
-  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.13.0.zip",
+  "min": "0.13.1",
+  "latest": "0.13.1",
+  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.13.1.zip",
   "qq": "1105868183",
-  "note": "新增联机做谱（第一期）：开房/加入、谱面整体同步、成员列表。不搭服务器，一人当主机、其他人直连，配合内网穿透使用"
+  "note": "联机做谱修正：必须打开谱面才能推送（原先会把空谱面推出去，可能覆盖别人的工作）；双方需打开同一张谱面"
 }
