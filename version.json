@@ -1,7 +1,7 @@
 {
-  "min": "0.10.9",
-  "latest": "0.10.9",
-  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.10.9.zip",
+  "min": "0.11.0",
+  "latest": "0.11.0",
+  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.11.0.zip",
   "qq": "1105868183",
-  "note": "新增装饰物列表（时间轴左侧）：选中、隐藏/锁定、删除、搜索、新建；媒体区改为六列网格；左栏与时间轴自适应、预览居中"
+  "note": "修复轨道事件：MoveTrack 的旋转/缩放/位移不生效、轨道动画段没有时间窗、辉度看不见、轨道出现/消失动画的作用范围"
 }
