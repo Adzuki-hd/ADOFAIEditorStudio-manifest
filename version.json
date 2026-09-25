@@ -1,7 +1,7 @@
 {
-  "min": "0.15.0",
-  "latest": "0.15.0",
-  "url": "https://gcore.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.15.0.zip",
+  "min": "0.15.1",
+  "latest": "0.15.1",
+  "url": "https://cdn.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.15.1.zip",
   "qq": "1105868183",
-  "note": "改值即时同步：改参数 / 拖事件块 / 装饰物显隐锁定，对方立刻就能看到。增删事件仍不自动同步（会提示用「推送谱面」统一），两边事件表对不上时改值会被拒绝，避免按下标写错事件"
+  "note": "修复更新检查：GitHub API 限流后会退到 CDN，而 CDN 可能缓存几个月前的旧清单，导致「版本正常」而永远不更新。现在会问遍所有源、取版本最高的那份。"
 }
