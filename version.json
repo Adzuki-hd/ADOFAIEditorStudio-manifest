@@ -1,7 +1,7 @@
 {
-  "min": "0.15.3",
-  "latest": "0.15.3",
-  "url": "https://cdn.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.15.3.zip",
+  "min": "0.16.4",
+  "latest": "0.16.4",
+  "url": "https://cdn.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.16.4.zip",
   "qq": "1105868183",
-  "note": "修复同步漏掉的两种情况：拖装饰物会新建关键帧、把事件数改掉，之前的校验误判成「两边结构不同」从此拒绝所有同步；拖动事件块到别的格也因同类误判被拒。现在改用「事件类型 + 格数」判断下标是否还指着同一个事件。另外两个人都不能同时拖同一个装饰物了。"
+  "note": "联机大改：全程自动同步（改值即时、增删事件自动整份推、撤回重做也同步），去掉事件锁改成后改者生效；加入时黑屏加载页 + 进度条，自动拉取房主的谱面、音乐和贴图（分批，支持子目录贴图）；加入者写临时副本，不动你自己那份文件；开房需先打开谱面，加入可以空手进；支持自定义端口（默认 21587）；头像已移除。"
 }
