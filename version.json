@@ -1,7 +1,7 @@
 {
   "min": "0.20.0",
-  "latest": "0.20.0",
-  "url": "https://cdn.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.20.0.zip",
+  "latest": "0.22.0",
+  "url": "https://cdn.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.22.0.zip",
   "qq": "1105868183",
-  "note": "轨道/事件动画修复：全局「轨道出现/消失动画」此前不生效，现在会按设置播；出现与消失动画改为按开始时间排序、跑完保持终态，不再互相覆盖；不透明度不再被每帧改回基线。时间轴事件块可拖左右边缘改时长（带吸附），边缘显示左右箭头光标。Shift+C 清除选中。更新时 UMM 的 Requirements 列会显示检查/下载/重启提示。"
+  "note": "工作台视觉重做：配色换成「紫金」，近黑底色，紫只用在能点的东西上（按钮/播放头/选中块），金只用在要读的东西上（面板标题/时间读数/计数）；左栏从并排两列改成单列 + 顶部标签切换（装饰物 / 媒体），媒体网格拿到整宽；补上大面积的实心填充（四个面板的标题条、参数栏空状态卡片、预览工具栏、顶栏品牌标记）以及装饰物行首的类型色标；间距统一到 4 的倍数，字号从 10 档收到 6 档。"
 }
