@@ -1,7 +1,7 @@
 {
-  "min": "0.16.4",
-  "latest": "0.16.4",
-  "url": "https://cdn.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.16.4.zip",
+  "min": "0.20.0",
+  "latest": "0.20.0",
+  "url": "https://cdn.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.20.0.zip",
   "qq": "1105868183",
-  "note": "联机大改：全程自动同步（改值即时、增删事件自动整份推、撤回重做也同步），去掉事件锁改成后改者生效；加入时黑屏加载页 + 进度条，自动拉取房主的谱面、音乐和贴图（分批，支持子目录贴图）；加入者写临时副本，不动你自己那份文件；开房需先打开谱面，加入可以空手进；支持自定义端口（默认 21587）；头像已移除。"
+  "note": "轨道/事件动画修复：全局「轨道出现/消失动画」此前不生效，现在会按设置播；出现与消失动画改为按开始时间排序、跑完保持终态，不再互相覆盖；不透明度不再被每帧改回基线。时间轴事件块可拖左右边缘改时长（带吸附），边缘显示左右箭头光标。Shift+C 清除选中。更新时 UMM 的 Requirements 列会显示检查/下载/重启提示。"
 }
