@@ -1,7 +1,7 @@
 {
   "min": "0.20.0",
-  "latest": "0.23.0",
-  "url": "https://cdn.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.23.0.zip",
+  "latest": "0.24.0",
+  "url": "https://cdn.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.24.0.zip",
   "qq": "1105868183",
-  "note": "工作台视觉继续收口。配色回到第一版的雾蓝——全屏只有一种彩色（天蓝），同时用在能点的地方（按钮/播放头/选中块）和要读的地方（面板标题/时间读数/计数）。装饰物列表行高 30→42、行距 2→6，一行改成一块圆角矩形。面板标题条的实心底衬改成横向拉伸锚——之前宽度定死在创建那一刻，拖时间轴调整高度时面板会变宽、底衬却停在旧宽度上，右上角会露出来。中文标题上提 2px：TMP 按拉丁字母的行框居中，而中文字形会往下坐，标题因此比旁边那条竖条低一两个像素。"
+  "note": "预览修复。缩放行星（ScalePlanets）此前完全没建模——scale:0 这类开局把行星缩没的事件看不到效果。时间轴新增「轨道」车道，MoveTrack / PositionTrack / ChangeTrack / ColorTrack / AnimateTrack / RecolorTrack 此前被整组排除。移动轨道上的球现在会跟着轨道走：ffxMoveFloorPlus 对 transform.position 起 tween，而快照存的是静态位移，跟不动。清空装饰物图片（decorationImage 为空串）此前被当成空操作，原生是 SetSprite(null) 把 sprite 和 spriteMask 一起清掉——于是该消失的装饰物没消失，看起来还像遮罩失效。顺带修了两个标题布局问题。"
 }
