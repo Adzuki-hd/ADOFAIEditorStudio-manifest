@@ -1,7 +1,7 @@
 {
-  "min": "0.27.0",
-  "latest": "0.27.0",
-  "url": "https://cdn.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.27.0.zip",
+  "min": "0.28.0",
+  "latest": "0.28.0",
+  "url": "https://cdn.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.28.0.zip",
   "qq": "1105868183",
-  "note": "0.25–0.27 合并。行星与镜头：长按段（双球角色交接、长按线填色、球的小幅摆动、镜头跟随）、多行星三球、freeroam 自由移动段、暂停格扫角公式、停着那颗球的角度，都已补齐。播放时音乐与拍子对齐（音频起播会被量化到缓冲区边界，起播后自动量一次把偏差 seek 掉）。0.27 修两处轨道位移：positionOffset 里为 null 的轴原生含义是「这个轴别动」，此前被按回烘焙位置，成组移动的轨道会让球脱轨；全轨道 AnimateTrack 的 appear 动画跑完后仍每帧写位置，把后面 MoveTrack 推开的轨道抹回原位。"
+  "note": "修两件事。一、往回拖播放头时轨道不还原（慢拖正常，快拖和瞬间点击不还原）：走过的格子淡出之后就再也没人把它们写回可见，现在换成按「有没有已开始的动画在管透明度」重新判定，往回拖会把走过的格子正确点亮。二、播放时音乐与拍子对不齐（全程固定偏移，大约五次偏一次）：音频起播会被量化到缓冲区边界（42.7ms），现在照原版和 PACL2 的做法给排程留 0.1 秒余量，并且每次定位都重新排程，实测连跑 20 多次零偏移。另外去掉了时间轴事件块左侧的圆头，和顶栏标题旁边的紫色圆点。"
 }
