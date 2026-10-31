@@ -1,7 +1,7 @@
 {
   "min": "0.36.0",
   "latest": "0.36.0",
-  "url": "https://testingcf.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.36.0.zip",
+  "url": "https://testingcf.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@77e89550972ec109839c68bd434110f7abf79475/ADOFAIEditorStudio-v0.36.0.zip",
   "qq": "1105868183",
   "note": "【本版 0.36.0】预览与时间轴一批性能优化，装饰物 / 轨道预览一批修复。\n① 修复：遮罩装饰物的显示范围与透明度；时长很长、位移很大的装饰物移动不再一格一格跳；颜色渐入渐出不再被游戏每帧重算覆盖成终点色；Blink 与 Switch 的曲线此前弄反了；退出预览后轨道恢复成谱面本身的颜色与动画；撤销 / 重做 / 粘贴 / 改属性之后时间轴事件块立即刷新；暂停时切换「简化遮罩」立即生效。\n② 新增：开发者页「轨道覆盖探针」「帧率日志」两个开关。\n③ 优化：拖动相机 / 滤镜 / 粒子 / 闪光 / 装饰物这类不影响轨道的事件后不再整谱重新烘焙；时间轴画面无变化时不再每帧重算、标尺整块绘制；轨道与装饰物预览按需计算并缓存已播完的历史事件；播放时默认关闭 2D 物理的自动步进；工作台入口按钮与诊断统计降低后台开销。"
 }
