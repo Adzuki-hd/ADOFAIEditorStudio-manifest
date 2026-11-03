@@ -1,7 +1,7 @@
 {
   "min": "0.37.0",
   "latest": "0.37.0",
-  "url": "https://testingcf.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@main/ADOFAIEditorStudio-v0.37.0.zip",
+  "url": "https://testingcf.jsdelivr.net/gh/Adzuki-hd/ADOFAIEditorStudio-manifest@b7b49988a44650ce06fe215d8cae2661d1170b54/ADOFAIEditorStudio-v0.37.0.zip",
   "qq": "1105868183",
   "note": "【本版 0.37.0】参数栏补齐、高级滤镜的子参数展开、两个新求值域，外加四个老 bug。\n· 修复：背景设置不生效（换图 / 改显示模式 / 改默认瓷片都没有反应）；行星替代装饰物卡在原地（把球缩没、用两个圆代替的那类特效）；高级滤镜切换不生效（框上名字不刷新）；相机跟随状态污染 —— 这一条影响最大，开过工作台之后原生播放也会跟着球走，直到重开游戏；「暂不支持 Note」其实是游戏的说明文字，现在正常显示。\n· 新增：高级滤镜的 filter_* 子参数（强度 / 饱和度 / 对比度 / 半径 / 扭曲等）；SetObject 预览（对象装饰物的球颜色、轨道外观）；PlaySound 预览（播放中跨格响一声，拖播放头不响）；Rating 星星评分；Export 导出按钮。\n· 调整：参数栏不再有「暂不支持」。\n· 注意：如果你用过 0.36.0 并开过工作台，装完这一版后请完整重开一次游戏 —— 相机那条修的是从现在起不再污染，当前进程里遗留的状态要靠重开清掉。"
 }
